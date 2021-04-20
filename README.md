@@ -23,3 +23,5 @@ Pull requester kabul edilir.Büyük değişiklikler için, lütfen nce neyi değ
 
 ## Licence
 MIT
+
+![IMAGE](https://avatars.githubusercontent.com/u/55656868?s=200&v=4)
